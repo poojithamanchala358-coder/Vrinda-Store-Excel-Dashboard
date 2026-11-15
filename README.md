@@ -73,4 +73,4 @@ Vrinda Store wanted to know:
 - Maintain 92% delivery success rate.
 
 ## 👩‍💻 Created By
-Pooja - Data Analyst Aspirant
+Poojitha - Data Analyst Aspirant
