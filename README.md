@@ -24,7 +24,7 @@ Vrinda Store wanted to know:
 - `Dashboard-Screenshot.png` - Dashboard Preview
 
 ## 📈 Dashboard Preview
-![Dashboard](Dashboard-Screenshot.png)
+![Vrinda Store Dashboard](IMG-20261115-WA5080.jpg)
 
 ## 🔍 Key Insights
 
